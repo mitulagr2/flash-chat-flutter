@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300566689536",
+    "project_id": "flash-chat-5ed48",
+    "storage_bucket": "flash-chat-5ed48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300566689536:android:557dfffc0863cc8da0a5e5",
+        "android_client_info": {
+          "package_name": "com.netlify.mitulagr2.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300566689536-hjchkbvdu13b84ffsngnlp4t5809l024.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjOI9m8VjsFNja7Uc0X2Q80Z4dWBEpqmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300566689536-hjchkbvdu13b84ffsngnlp4t5809l024.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
