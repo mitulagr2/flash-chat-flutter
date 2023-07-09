@@ -2,7 +2,7 @@
 
 Flash Chat is the final app made while undertaking Angela Yu's [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart).
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+![Finished App](https://github.com/mitulagr2/flash-chat-flutter/assets/69587385/d17c43b5-3f3c-4912-a7cc-62fa85287411)
 
 ## What I learnt
 
